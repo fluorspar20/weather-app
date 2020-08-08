@@ -38,7 +38,7 @@ app.get('/help', (req,res) => {
     res.render('help',{
         title: 'Need Help?',
         name: 'Amogh Dixit',
-        message: 'Just chill everything will be fine'
+        message: 'This website is built using Node.js . It fetches data from OpenWeatherMap and displays the weather forecast of the provided address. To get your forecast, just enter your address and it will display the forecast!'
     })
 })
 
