@@ -1,4 +1,4 @@
-# weather-app
+# Weather-App
 A Node.js application which fetches data from Weather API and renders the forecast.
 Live at https://fluorspar20-weather-app.herokuapp.com/
 
